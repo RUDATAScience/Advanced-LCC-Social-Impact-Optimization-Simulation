@@ -1,0 +1,10 @@
+Deterioration Rate,Multiplier,Strategy,Mean Total Cost
+-19%,0.8,Corrective (State D),2309.951163543952
+-19%,0.8,Preventive (State C),778.74
+-19%,0.8,Pre-emptive (State B),671.286
+Baseline,1.0,Corrective (State D),2829.791100428474
+Baseline,1.0,Preventive (State C),824.628
+Baseline,1.0,Pre-emptive (State B),690.081
+19%,1.2,Corrective (State D),3332.555609821519
+19%,1.2,Preventive (State C),876.084
+19%,1.2,Pre-emptive (State B),708.729
