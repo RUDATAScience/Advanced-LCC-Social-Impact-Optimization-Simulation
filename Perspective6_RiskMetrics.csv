@@ -1,0 +1,4 @@
+Strategy,VaR (95%),VaR (99%),CVaR (95%)
+Corrective (State D),4350.0,5100.0,4520.770994867315
+Preventive (State C),960.0,1080.0,985.2732486685785
+Pre-emptive (State B),750.0,780.0,763.6256639304684
