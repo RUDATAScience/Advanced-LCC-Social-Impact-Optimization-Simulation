@@ -1,0 +1,3 @@
+Comparison,Test,Statistic,P-Value,Significant (p<0.05)
+Corrective vs Preventive(C),Welch's t-test,231.18823567851516,0.0,True
+Corrective vs Preventive(C),Mann-Whitney U,99281476.0,0.0,True
